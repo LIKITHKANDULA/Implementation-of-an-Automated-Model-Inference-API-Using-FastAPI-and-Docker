@@ -1,0 +1,2 @@
+# Implementation-of-an-Automated-Model-Inference-API-Using-FastAPI-and-Docker
+A containerized FastAPI microservice wrapping a machine learning model for customer churn prediction. It implements Pydantic data validation schemas for automated data validation at the gateway, features an asynchronous Uvicorn runtime engine, and is built into a lightweight Docker container for zero-config cloud deployments.
